@@ -16,7 +16,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Cover](https://github.com/Niyati-Sinha/Niyati-Sinha/blob/main/Java%20Orientation2.jpg)
+![Cover](https://github.com/Niyati-Sinha/Niyati-Sinha/blob/main/Java%20Orientation2.jpg width="400" 
+     height="500")
 
 
 <h1 align="center">Hi 👋, I'm Niyati</h1>
