@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 -->
 <h1 align="center">
 <img src="https://github.com/Niyati-Sinha/Niyati-Sinha/blob/main/Java%20Orientation2.jpg" 
-     width="400" 
-     height="550" 
+     width="200" 
+     height="250" 
      class="center"/></h1>
 
 <h1 align="center">Hi 👋, I'm Niyati</h1>
