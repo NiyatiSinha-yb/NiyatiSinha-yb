@@ -18,7 +18,8 @@ Here are some ideas to get you started:
 
 <img src="https://github.com/Niyati-Sinha/Niyati-Sinha/blob/main/Java%20Orientation2.jpg" 
      width="400" 
-     height="500" />
+     height="550" 
+     class="center"/>
 
 <h1 align="center">Hi 👋, I'm Niyati</h1>
 <h3 align="center">Always learning!</h3>
