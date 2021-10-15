@@ -15,11 +15,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+<h1 align="center">
 <img src="https://github.com/Niyati-Sinha/Niyati-Sinha/blob/main/Java%20Orientation2.jpg" 
      width="400" 
      height="550" 
-     class="center"/>
+     class="center"/></h1>
 
 <h1 align="center">Hi 👋, I'm Niyati</h1>
 <h3 align="center">Always learning!</h3>
