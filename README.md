@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on **Full Stack Development**
 
-- 🌱 I’m currently learning **AWS**
+- 🌱 I’m learning **AWS**
 
 - 👯 I’m looking to collaborate on **open source**
 
