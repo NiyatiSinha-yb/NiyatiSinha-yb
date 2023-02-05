@@ -34,7 +34,7 @@ Here are some ideas to get you started:
  
 - 🤔 I’m in love with problem solving
   
-- ⚡ I wrote my first progrm in Java in the year 2010
+- ⚡ I wrote my first Java program in the year 2010
 
 <!--## My Technology and Tools !!-->
 
