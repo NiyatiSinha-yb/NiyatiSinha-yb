@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 ## My Github Stats !!                               
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NiyatiSinha-yb&theme=tokyonight"/>
-<img align="center" src="https://github-readme-stats.vercel.app/api/?username=NiyatiSinha-yb&count_private=true&show_icons=true&theme=radical&hide=issues"/>
+<!--## <img align="center" src="https://github-readme-stats.vercel.app/api/?username=NiyatiSinha-yb&count_private=true&show_icons=true&theme=radical&hide=issues"/>-->
 
 ## Connect with me !!
 <a href="https://www.linkedin.com/in/niyati-sinha" rel="some text"><img src="https://krueger.ca/wp-content/uploads/2016/02/linkedin-logo.png" alt="linkedin" height="48" width="48"></a>
