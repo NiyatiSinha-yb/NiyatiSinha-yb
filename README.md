@@ -21,7 +21,7 @@ Here are some ideas to get you started:
      height="315" 
      class="center"/></h1>
 
-<h1 align="center">Hey there! I'm Niyati</h1>
+<h1 align="center">Hey there! I'm Niyati!</h1>
 <h3 align="center">Always learning!</h3>
 
 - 🔭 I’m currently working on **Full Stack Development**
