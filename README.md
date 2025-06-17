@@ -2,7 +2,7 @@
   <img src="https://github.com/Niyati-Sinha/Niyati-Sinha/blob/main/Java%20Orientation2.jpg" width="250" height="315" alt="Profile banner"/>
 </h1>
 
-<h1 align="center">Hey there! I'm Niyati Sinha👋</h1>
+<h1 align="center">Hey there! I'm Niyati👋</h1>
 <h3 align="center">Software Engineer 2 at <a href="https://www.yugabyte.com/" target="_blank">Yugabyte</a> | Lifelong Learner | Problem Solver</h3>
 
 ---
