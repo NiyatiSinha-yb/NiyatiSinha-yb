@@ -15,7 +15,7 @@
   🤝 Open Source Enthusiast<br>
   💬 Java & Tech Conversations Welcome!<br>
   🧩 Passionate about Problem Solving<br>
-  ✨ Wrote my first Java program in 2010<br>
+  ✨ I wrote my first Java program in 2010<br>
 </p>
 
 ---
