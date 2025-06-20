@@ -1,5 +1,6 @@
 <h1 align="center">
   <img src="https://github.com/Niyati-Sinha/Niyati-Sinha/blob/main/Java%20Orientation2.jpg" width="250" height="315" alt="Profile banner"/>
+  
 </h1>
 
 <h1 align="center">Hey there! I'm Niyati👋</h1>
