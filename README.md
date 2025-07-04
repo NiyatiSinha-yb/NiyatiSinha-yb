@@ -11,7 +11,7 @@
 <p align="center">
   🚀 Full Stack Developer<br>
   👩‍💻 Software Engineer 2 at <a href="https://www.yugabyte.com/" target="_blank">Yugabyte</a><br>
-  ⚡ Currently working on Databases<br>
+  ⚡ Currently working on Databases <br>
   ☁️ Exploring Cloud: AWS, GCP, Azure & more<br>
   🤝 Open Source Enthusiast<br>
   💬 Java & Tech Conversations Welcome!<br>
