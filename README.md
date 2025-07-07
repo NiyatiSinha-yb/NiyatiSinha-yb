@@ -59,6 +59,13 @@
   <img src="https://github-readme-stats.vercel.app/api?username=NiyatiSinha-yb&count_private=true&show_icons=true&theme=tokyonight&hide=issues"/>
 </p>
 -->
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=NiyatiSinha-yb&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
+</p>
+
+
 
 ---
 
